@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm **Haythem Timoumi**, a passionate software eng
 
 ## 🌐 Connect with Me  
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)  
-- Email: [My Email](mailto:your-email@example.com)  
-- GitHub: [My GitHub Profile](https://github.com/your-github-username)  
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/haythem-timoumi-152b9b34a/)  
+- Email: [My Email](mailto:haythem.timoumi@outlook.com)  
+- GitHub: [My GitHub Profile](https://github.com/haythemtimoumi)  
 
 ---
 
