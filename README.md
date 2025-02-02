@@ -37,7 +37,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 Here are some of the projects I've been working on:  
 
-- **Flutter E-Commerce App**: A fully functional e-commerce app with a clean UI and state management using Provider.  
+- **Flutter Education App**: A fully functional education app with a clean UI and state management using Provider.  
 - **Node.js REST API**: A scalable backend for a task management system with JWT authentication.  
 - **Symfony Web Portal**: A web portal for managing user data and interactions, built with Symfony and Twig.  
 - **Spring Boot Microservices**: A set of microservices for a booking system, integrated with Docker for deployment.  
